@@ -1,6 +1,6 @@
 # 📊 Data Mining Project - Retail Analysis
 
-## 📌 Project Description
+## Project Description
 
 This project analyzes online retail transaction data (2009–2011) to extract insights about customer behavior.
 
