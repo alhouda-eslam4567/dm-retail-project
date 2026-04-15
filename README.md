@@ -9,11 +9,11 @@ This project analyzes online retail transaction data (2009–2011) to extract in
 * Customer Segmentation
 * Spending Prediction
 * Anomaly Detection
+## 📂 Dataset
 
-## Dataset
+The dataset used in this project can be downloaded from:
 
-Online Retail Dataset (UK-based e-commerce transactions)
-
+https://archive.ics.uci.edu/ml/datasets/online+retail
 ## Tools & Technologies
 
 * Python
