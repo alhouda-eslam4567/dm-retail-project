@@ -1,38 +1,36 @@
-# 📊 Data Mining Project - Retail Analysis
+📊 Retail Analytics: Customer Segmentation & Behavior Mining
+🧠 Methodology: CRISP-DM Framework
+📝 Project Description
 
-## Project Description
+This project applies advanced data mining techniques to a large-scale online retail dataset (over 1 million transactions) to transform raw data into actionable business intelligence. The goal is to optimize marketing strategies, improve customer retention, and forecast revenue.
 
-This project analyzes online retail transaction data (2009–2011) to extract insights about customer behavior.
-
-## Objectives
-
-* Customer Segmentation
-* Spending Prediction
-* Anomaly Detection
-## 📂 Dataset
+🚀 Key Business Objectives
+Customer Segmentation: Grouping customers based on purchasing behavior (RFM Analysis).
+Spending Prediction: Forecasting future customer spending patterns.
+VIP Detection: Early identification of high-value customers.
+Market Basket Analysis: Discovering product associations for cross-selling.
+Anomaly Detection: Identifying unusual or fraudulent purchasing patterns.
+📂 Dataset
 
 The dataset used in this project can be downloaded from:
 
 https://archive.ics.uci.edu/ml/datasets/online+retail
-## Tools & Technologies
+Name: Online Retail II Dataset (2009–2011)
+Source: UCI Machine Learning Repository
+Scale: 1,044,580 rows | 8 initial columns
+🛠️ Tech Stack
+Language: Python
+Data Handling: Pandas, NumPy
+Machine Learning: Scikit-learn, Mlxtend (Apriori)
+Visualization: Matplotlib, Seaborn, Plotly
+Deployment: Streamlit Dashboard
+🧪 Techniques Applied
+Task	Algorithm	Evaluation Metric
+Clustering	K-Means	Silhouette Score
+Regression	Random Forest Regressor	R² Score
+Classification	Random Forest Classifier	AUC-ROC
+Anomaly Detection	Isolation Forest	Anomaly Score
+Market Basket Analysis	Apriori	Lift & Confidence
 
-* Python
-* Pandas
-* Scikit-learn
-* Matplotlib
+ل
 
-## Techniques Used
-
-* Clustering (K-Means)
-* Classification (Decision Tree, Random Forest)
-* Regression (Linear Regression)
-* Anomaly Detection (Isolation Forest)
-
-## How to Run
-
-1. Open the notebook
-2. Run all cells step by step
-
-##  Author
-
-hoda 
